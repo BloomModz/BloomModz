@@ -4,7 +4,7 @@
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="306" > </a>
 
-<a href ="https://discord.com/users/922340279275638805"><img align="right" src="[![Discord Presence](https://lanyard.cnrad.dev/api/922340279275638805)](https://discord.com/users/922340279275638805)" width="418"></a>
+<a href ="https://discord.com/users/922340279275638805"><img align="right" src="https://lanyard.cnrad.dev/api/922340279275638805" width="418"></a>
 
 
 <br><br><br><br><br><br><br><br><br><br>
